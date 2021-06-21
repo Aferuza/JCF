@@ -9,7 +9,11 @@ public class MyHashSet {
     Set<String> myset = new LinkedHashSet<String>();
       myset.add("1");
       myset.add("10");
-       myset.add("100");
+       myset.add("100");myset.contains('e');
+       myset.size();
+       myset.isEmpty();
+       myset.toArray();
+      // myset.addAll();
        System.out.println(myset);
   }
 

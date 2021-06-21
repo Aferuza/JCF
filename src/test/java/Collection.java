@@ -12,6 +12,7 @@ class myCollection {
 
         Collection<String> myCollec = new ArrayList<String>();
         Collection<String>workdays = new ArrayList<String>();
+
         workdays.add("j");
         workdays.add("k");
         workdays.add("d");
